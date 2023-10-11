@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio 2 Intents cobro de agua</string>
+    <string name="tvIngresaLitros">Ingresa los litros consumidos:</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvTotal">Total a pagar:</string>
+    <string name="btnVolver">Volver</string>
+</resources>
